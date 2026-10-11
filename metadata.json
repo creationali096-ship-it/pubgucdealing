@@ -1,0 +1,6 @@
+{
+  "name": "BattleZone UC Store",
+  "description": "Fast, reliable PUBG Mobile UC top-up store in Pakistan. Instant Easy Ordering via JazzCash and Easypaisa with 24/7 order processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
